@@ -294,4 +294,5 @@ int main(int argc, char **argv)
 
 
 ## RESULT:
-Thus the program has been executed by using unified memory. It is observed that removing the memset function has given less/more 0.048760 sec time.
+Thus the program has been executed using unified memory. It is observed that removing the memset function has given less/more time.
+Therefore , the time for execution after removing the memset function is less :  0.048760 sec 
